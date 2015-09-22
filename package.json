@@ -1,7 +1,7 @@
 {
-  "name": "bustle-nflow",
+  "name": "bustlenflow",
   "version": "0.0.0",
-  "description": "Small description for bustle-nflow goes here",
+  "description": "Small description for bustlenflow goes here",
   "private": true,
   "directories": {
     "doc": "doc",
